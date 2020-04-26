@@ -1,7 +1,6 @@
 # WordsLister
 Program which lists all of the words from a text file using binary tree.
-DISCLAIMER: I have created this project long time ago so it is probably bugged and written poorly, I just want to have it on git to look back
-at it in some years and laugh. I also remember writing a better version in C++ which additionaly listed all of the lines in which the word was found,
+DISCLAIMER: I have created this project long time ago so it is probably bugged and written poorly, I just want to have it on git to look back at it in some years and laugh. I also remember writing a better version in C++ which additionaly listed all of the lines in which the word was found,
 but it seems to be lost somewhere.  
 
 To run the program pass <program-name.exe> –i <path-for-input-file.txt> –o <path-for-output-file.txt> to the command prompt.
